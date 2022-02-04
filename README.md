@@ -1,8 +1,7 @@
 # Bultek Repo
 
 ## Adding to pacman mirrorlist
-  * Append to /etc/pacman.conf
-  *    
+  * Append theese to /etc/pacman.conf
   *   ```[bultek]
        Server = https://bultek.github.io/Bultek-Arch-Repo/x86_64/ 
        Server = http://repo.bultek.com.ua/linux/Bultek-Arch-Repo/x86_64/ 
