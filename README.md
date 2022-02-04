@@ -13,5 +13,5 @@
   ## Creating a mirror
   * Clone [this repo](https://github.com/Bultek/Bultek-Arch-Repo) to your server
   * Fork this repo
-  * Edit this file
+  * Edit this file (add your repo)
   * Create pull request
