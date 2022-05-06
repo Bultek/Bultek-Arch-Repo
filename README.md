@@ -1,14 +1,12 @@
 # Bultek Repo
 
-## Adding to pacman mirrorlist
+## Adding to your install
+  * Install [keyring-bultek](https://github.com/Bultek/Bultek-Arch-Repo/blob/master/x86_64/keyring-bultek-2022.05.06-1-any.pkg.tar.zst) package
   * Append theese to /etc/pacman.conf
   *   ```[bultek]
        [bultek]
        Server = https://bultek.github.io/Bultek-Arch-Repo/x86_64/ 
-       Server = http://repo.bultek.com.ua/linux/Bultek-Arch-Repo/x86_64/ 
-       SigLevel = Optional TrustAll
-       ```
- 
+       Server = http://repo.bultek.com.ua/linux/Bultek-Arch-Repo/x86_64/ ```
  
   ## Creating a mirror
   * Clone [this repo](https://github.com/Bultek/Bultek-Arch-Repo) to your server
