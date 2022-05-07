@@ -1,7 +1,7 @@
 # Bultek Repo
 
 ## Adding to your install
-  * Install [keyring-bultek](https://github.com/Bultek/Bultek-Arch-Repo/blob/master/x86_64/keyring-bultek-2022.05.06-1-any.pkg.tar.zst) package
+  * Install [keyring-bultek](https://github.com/Bultek/Bultek-Arch-Repo/blob/master/x86_64/keyring-bultek-2022.05.07-1-any.pkg.tar.zst) package
   * Run ```sudo pacman-key --populate bultek```
   * Append theese to /etc/pacman.conf
   * 
